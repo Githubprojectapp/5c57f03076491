@@ -1,0 +1,140 @@
+WEB DESIGNING AND DEVELOPMENT
+==============================
+Hello James
+I read your job's post regarding re-designing of your website. Would you please share the link of your website? Do you want the same layout of your lost website or you want a complete new design? 
+
+Myself Simrat, a website developer & designer with an experience of 6+ years, having expertise in developing web applications, websites, garphic designing.
+
+I am expertise in:
+- HTML5, CSS3, Bootstrap, Jquery, Javascript, Angular JS, Node.JS, Backbone.JS, React JS
+- PHP, Wordpress.
+- Adobe photoshop, Adobe Flash, Adobe Illustrator.
+- On Page SEO.
+
+Here I am sharing some links of my previous work. Please have a look:
+
+https://www.bizquip.com.au
+https://www.kakulas.com.au
+https://ctuniversity.in/
+https://stjameshdinvtrust.co
+http://www.chandigarhlawyers.com 
+http://perthdoordoctor.com.au
+
+Looking forward for a positive response.
+
+With regards
+Simrat.
+=================
+Hello Hiring Manager
+Myself Simrat, a website designer & developer with an experience of 6+ years.
+
+I am expertise in:
+
+-- HTML5, CSS3, Wordpress, Bootstrap4, Jquery, Javascript.
+-- PHP, Mysql.
+-- Adobe photoshop, Adobe Illustrator, Adobe flash.
+
+Good skills in designing desktop & mobile design.
+
+Please feel free to ask, for any query.
+With regards
+Simrat.
+===================
+Hello Hiring Manager
+
+I read your job's post, found that you're looking for a website developer. Myself Simrat, a website designer & developer with an experience of 6+ years, having expertise in developing high user interface websites, mockups/wireframes, responsive websites.
+
+This is the online link of my portfolio: https://perceptsystems.com/portfolio/
+
+Moreover, I am expertise in:
+
+-- HTML5, CSS3, Wordpress, Bootstrap4, Jquery, Javascript.
+-- PHP, Mysql.
+-- Adobe photoshop, Adobe Illustrator, Adobe flash.
+
+I have good experience in designing mockups/wireframes, logos, banner designs, UI designing.
+
+If you would have any query, please feel free to ask. 
+With regards
+Simrat
+=====================
+Hello Hiring Manager
+I just read your job's post, noticed that you're looking for website developer for adding some features to the website.
+
+I have good expertise in-
+- Validation. 
+- Design good user interface.
+- Also have good experience in payment integration.
+
+I also have good experience in CodeIgniter, Laravel Framework, API Development, Vue.js, Steam API.
+
+I am also providing some links of my related work, please visit them:
+
+https://www.bizquip.com.au
+https://www.kakulas.com.au
+https://ctuniversity.in/
+https://stjameshdinvtrust.co
+
+If you have any query or you required any other skills please let me know.
+With regards
+Simrat 
+======================
+Hello Hiring Manager
+I just read your job's post, noticed that you're looking for website developer
+
+As per my understanding, your website will require following skills-
+
+-- HTML5, CSS3, Wordpress, Bootstrap4, Jquery, Javascript.
+-- PHP, Mysql.
+-- Adobe photoshop, Adobe Illustrator, Adobe flash.
+
+And Also I have good knowledge in all these expertise. Also, good experience in CodeIgniter, Laravel Framework, API Development.
+
+I am also providing some links of my related work, please visit them:
+
+https://www.bizquip.com.au
+https://www.kakulas.com.au
+https://ctuniversity.in/
+https://stjameshdinvtrust.co
+
+I am also active on. Looking forward for a positive response.
+
+If you have any query or you required any other skills please let me know.
+With regards
+Simrat
+============================
+
+
+
+
+
+
+
+
+
+
+=========================================================
+Test cases
+===========
+- Doing backlog: Backlog should not move in done if no submission in doing backlog
+- Done backlog: Backlog should not move in close if no votes in done backlog
+- Done backlog: User can unvote and downvote at same time for one solution
+- Pending to apporval backlog flow: Backlog not apporved after enter dates and amount. After filling these information backlog come     back in pending status.
+- All Backlog: Remove choose file form backlog edit
+- Popups: Alert boox should be replace the popups.
+- Backlog loss: Created a backlog with name( dummy) account: user name: yaad, pass:Qwerty but when it was apporved by admin, this was   not found and loader keeps on loading.
+
+New discussion point
+=====================	
+- Attachment with backlog and project: Attachment should be required.
+- Vote process: Need thumb sign on project list for voting( UI change)
+- Help message: Message box on voting, add salution etc(UI change). 
+- Rewards date: Date and Cycle day ( UI change)
+
+Evening standup
+----------------------
+1. Worked on linkdin and upwork...reviewed profiles
+2. Coordinated with team 
+3. Worked with manpreet sir on design key  and neha mam on PS
+4. discussed project with team
+http://104.238.81.200:9091/
